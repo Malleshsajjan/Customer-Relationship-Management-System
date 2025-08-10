@@ -1,0 +1,15 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+  }
+  
+  .dashboard h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard p {
+    font-size: 18px;
+  }
+          
